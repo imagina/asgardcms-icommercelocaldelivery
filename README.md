@@ -1,2 +1,0 @@
-# asgardcms-icommercelocaldelivery
-

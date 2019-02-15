@@ -19,4 +19,4 @@
         * @param Requests array "options" - countryCode (string)
         
      ### Example
-        https://icommerce.imagina.com.co/api/icommercelocaldelivery
+        https://mydomain/api/icommercelocaldelivery

@@ -18,7 +18,7 @@ class EloquentIcommerceLocalDeliveryRepository extends EloquentBaseRepository im
             $countryFree = setting('icommerce::country-freeshipping');
         }
 
-        $countryCode = isset($parameters["options"]["countryCode"]) ? $parameters["options"]["countryCode"] : null;
+        $countryCode = isset($parameters["shipping_country_code"]) ? $parameters["shipping_country_code"] : null;
 
         if($countryCode!=null){
 

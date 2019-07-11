@@ -16,7 +16,7 @@
         * @param Requests request
         * @param Requests array "products" - items (object) 
         * @param Requests array "products" - total (float)
-        * @param Requests array "options" - countryCode (string)
+        * @param Requests string "country_code"
         
      ### Example
         https://mydomain/api/icommercelocaldelivery

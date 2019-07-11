@@ -1,0 +1,6 @@
+url: https://github.com/imagina/asgardcms-icommercelocaldelivery
+versions:
+  "1.0.0":
+    added:
+      - initial version 1.0.0
+      - Change values names calculations
